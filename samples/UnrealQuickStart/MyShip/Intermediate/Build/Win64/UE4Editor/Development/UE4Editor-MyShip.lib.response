@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyShip.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\PCH.MyShip.h.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\Cannon.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\Culverin.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\Mortar.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\MyShip.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\MyShipActor.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\MyShipGameMode.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\ShipWeapon.cpp.obj"
+"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\MyShip\MyShip.generated.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyShip\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\UEStudy\UEQuickStudy\samples\UnrealQuickStart\MyShip\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyShip.lib"
